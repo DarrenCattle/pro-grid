@@ -43,7 +43,7 @@ angular.module('proGridApp')
       console.log('goodbye');
     });
 
-    $scope.dimensions = 32;
+    $scope.dimensions = 128;
 
     $scope.generateGrid = function(num) {
       return new Array(num);

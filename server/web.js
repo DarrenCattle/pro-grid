@@ -13,7 +13,7 @@ var express = require('express')
 // valid api keys
 
 var gridProperties = {
-  dimensions: 32
+  dimensions: 128
 };
 
 // instantiate grid array
